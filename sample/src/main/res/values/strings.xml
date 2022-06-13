@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ADRUINO OBJECT DETECTED</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="balance_currency">$</string>
+    <string name="nav_header_title">ADRUINO OBJECT DETECTED</string>
+    <string name="nav_header_subtitle">Teams Dev By iShool LX</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="balance_amount">524.99</string>
+    <string name="Push_noti_name">warning_noti</string>
+    <string name="Push_noti_name2">service_detected</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="detect_text">Chúng tôi sẽ cảnh báo tới bạn khi có chuyển động.</string>
+    <string name="data">getdata</string>
+</resources>
